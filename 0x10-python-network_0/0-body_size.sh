@@ -1,3 +1,3 @@
 #!/bin/bash
-# Get the URL from the command line arguments
-curl -s "$1" | wc -c
+# Get the URL from the line arguments
+curl -s "$" | wc -c
